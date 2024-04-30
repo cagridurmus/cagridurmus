@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Çağrı</h1>
-<h3 align="center">A young full-stack developer from Turkey</h3>
+<h3 align="center">A middle full-stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Flutter and Docker**
+- 🌱 I’m currently learning **Angular and Docker**
 
 - 💬 Ask me about **ASP.NET, C# and JavaScript**
 
 - 📫 How to reach me **cagridurmus1997@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RWFZtPd5gKNy_e62nXe8CRiedspJhP1W/view?usp=sharing](https://drive.google.com/file/d/1RWFZtPd5gKNy_e62nXe8CRiedspJhP1W/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14MXkdakDMDmnDhkO7gs931LjwaxsoBip/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
